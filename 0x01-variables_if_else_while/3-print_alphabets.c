@@ -11,7 +11,7 @@ int main(void)
 	int lowerCase = 'a';
 	int upperCase = 'A';
 
-	if (lowerCase <= 'z')
+	if (lowerCase >= 'z')
 	{
 		putchar(lowerCase);
 		lowerCase += 1;
