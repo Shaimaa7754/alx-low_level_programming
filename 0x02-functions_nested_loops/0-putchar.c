@@ -1,8 +1,8 @@
 #include "main.h"
 
 /*
- * main - Entry point
- * Description: 'Write a program that prints _putchar, followed by a new line.'
+ * main - print _putchar
+ * is written by mbah
  * Return: Always 0
  */
 
